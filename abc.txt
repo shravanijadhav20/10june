@@ -3,4 +3,8 @@ how are you
 this is first version
 
 hope you are doing good
-this is my second versio
+this is my second version
+
+this is data science class
+we are learning git for data science
+for version 3
